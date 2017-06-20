@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleWebDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "link.txt ImageBox"
+    }
+  }
+}
